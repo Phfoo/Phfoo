@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @Phfoo
-- 👀 I’m interested in "How to download what Information from website by *.json." 
+- 👀 I’m interested in just looking for somefun.
 - 🌱 I’m currently learning ...I'm lerning #C. 
 - 💞️ I’m looking to collaborate on ...No I'm buissy.
 - 📫 How to reach me ...
