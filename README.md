@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @Phfoo
-- 👀 I’m interested in "How to writing code what Download information from website by file-name*
-- .json for buildeing data-base on linux ?" and anything...
+- 👀 I’m interested in "How to download what Information from website by *.json." 
 - 🌱 I’m currently learning ...I'm lerning #C. 
 - 💞️ I’m looking to collaborate on ...No I'm buissy.
 - 📫 How to reach me ...
